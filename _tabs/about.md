@@ -6,7 +6,7 @@ toc: true
 ---
 
 ## About Me
-![Desktop View](/assets/img/me.png){: width="400" height="100" }
+![Picture of me](/assets/img/me.png){: width="400" height="100" }
 
  -Hello welcome to my blog. My name is Thomas and I am a 21 year old cybersecurity/IT student who specializes in Malware Analysis. I have an AS(Associate's of Science) in Cybersecurity from Union County College aswell as a CompTIA Security+ certification. I am currently working on my BS in Computer Science or Information Technology(still deciding) at Rutgers University in New Brunswick, NJ. 
 ## About Website
